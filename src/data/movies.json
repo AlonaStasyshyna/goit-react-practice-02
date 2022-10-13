@@ -1,6 +1,4 @@
-{
-"page": 1,
-"results": [
+[
 {
 "adult": false,
 "backdrop_path": "/pfAZP7JvTTxqgq7n6A1OYgkAdEW.jpg",
@@ -26,7 +24,7 @@
 "adult": false,
 "backdrop_path": "/5DUMPBSnHOZsbBv81GFXZXvDpo6.jpg",
 "id": 114410,
-"name": "Chainsaw Man",
+"title": "Chainsaw Man",
 "original_language": "ja",
 "original_name": "チェンソーマン",
 "overview": "Denji has a simple dream—to live a happy and peaceful life, spending time with a girl he likes. This is a far cry from reality, however, as Denji is forced by the yakuza into killing devils in order to pay off his crushing debts. Using his pet devil Pochita as a weapon, he is ready to do anything for a bit of cash.",
@@ -50,7 +48,7 @@
 "adult": false,
 "backdrop_path": "/qtfMr08KQsWXnCHY0a96N8NpQ2l.jpg",
 "id": 30984,
-"name": "Bleach",
+"title": "Bleach",
 "original_language": "ja",
 "original_name": "ブリーチ",
 "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
@@ -92,7 +90,7 @@
 "adult": false,
 "backdrop_path": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
 "id": 94997,
-"name": "House of the Dragon",
+"title": "House of the Dragon",
 "original_language": "en",
 "original_name": "House of the Dragon",
 "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
@@ -115,7 +113,7 @@
 "adult": false,
 "backdrop_path": "/ajztm40qDPqMONaSJhQ2PaNe2Xd.jpg",
 "id": 83867,
-"name": "Star Wars: Andor",
+"title": "Star Wars: Andor",
 "original_language": "en",
 "original_name": "Star Wars: Andor",
 "overview": "The tale of the burgeoning rebellion against the Empire and how people and planets became involved. In an era filled with danger, deception and intrigue, Cassian Andor embarks on the path that is destined to turn him into a rebel hero.",
@@ -138,7 +136,7 @@
 "adult": false,
 "backdrop_path": "/bwEtMHwa2N4LMIiRS6TfFrnjhQb.jpg",
 "id": 92783,
-"name": "She-Hulk: Attorney at Law",
+"title": "She-Hulk: Attorney at Law",
 "original_language": "en",
 "original_name": "She-Hulk: Attorney at Law",
 "overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
@@ -283,7 +281,7 @@
 "adult": false,
 "backdrop_path": "/1rO4xoCo4Z5WubK0OwdVll3DPYo.jpg",
 "id": 84773,
-"name": "The Lord of the Rings: The Rings of Power",
+"title": "The Lord of the Rings: The Rings of Power",
 "original_language": "en",
 "original_name": "The Lord of the Rings: The Rings of Power",
 "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
@@ -306,7 +304,7 @@
 "adult": false,
 "backdrop_path": "/nR1KXRsOFIs3Vje2CW8T5qh5Q3h.jpg",
 "id": 128113,
-"name": "The Winchesters",
+"title": "The Winchesters",
 "original_language": "en",
 "original_name": "The Winchesters",
 "overview": "Before Sam and Dean, there was John and Mary. Told from the perspective of narrator Dean Winchester, this is the epic, untold love story of how John met Mary, and how they put it all on the line to not only save their love, but the entire world.",
@@ -328,7 +326,7 @@
 "adult": false,
 "backdrop_path": "/rjnnQOSntiuiHIbYKy4oessqaKA.jpg",
 "id": 126254,
-"name": "The Midnight Club",
+"title": "The Midnight Club",
 "original_language": "en",
 "original_name": "The Midnight Club",
 "overview": "At a manor with a mysterious history, the 8 members of the Midnight Club meet each night at midnight to tell sinister stories – and to look for signs of the supernatural from the beyond.",
@@ -371,7 +369,7 @@
 "adult": false,
 "backdrop_path": "/4EIzGI91EBdIVpWsdBj14nNrzwh.jpg",
 "id": 210232,
-"name": "The Watcher",
+"title": "The Watcher",
 "original_language": "en",
 "original_name": "The Watcher",
 "overview": "Ominous letters. Strange neighbors. Sinister threats. A family moves into their suburban dream home, only to discover they've inherited a nightmare.",
@@ -431,7 +429,4 @@
 "vote_average": 6.749,
 "vote_count": 4151
 }
-],
-"total_pages": 1000,
-"total_results": 20000
-}
+]

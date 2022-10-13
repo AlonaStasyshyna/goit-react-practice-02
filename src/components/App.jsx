@@ -8,9 +8,7 @@ export class App extends Component {
   }
 
   render() {
-    return
-    <>
+    return(
       <MoviesGallary movies={movies} />
-    </>
-  }
+  )}
 }
